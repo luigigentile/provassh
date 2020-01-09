@@ -1,4 +1,4 @@
-totale 24
+totale modificato di cc 24
 drwxrwxr-x  3 luigi luigi 4096 gen  9 19:20 .
 drwxrwxrwx 10 luigi luigi 4096 gen  9 19:19 ..
 -rw-rw-r--  1 luigi luigi   44 gen  9 19:19 aa.txt
