@@ -8,3 +8,4 @@ drwxr-xr-x 1 luigi 197121   0 giu 22 18:14 .git/
 -rw-r--r-- 1 luigi 197121 403 giu 22 18:11 lista.txt
 -rw-r--r-- 1 luigi 197121   0 giu 22 18:33 listaal.txt
 -rw-r--r-- 1 luigi 197121  27 giu 22 16:59 NuovoFile.txt
+modificata
