@@ -1,0 +1,10 @@
+total 17
+drwxr-xr-x 1 luigi 197121   0 giu 22 18:33 ./
+drwxr-xr-x 1 luigi 197121   0 gen 10  2020 ../
+drwxr-xr-x 1 luigi 197121   0 giu 22 18:14 .git/
+-rw-r--r-- 1 luigi 197121  45 gen  9  2020 aa.txt
+-rw-r--r-- 1 luigi 197121 380 gen  9  2020 bb
+-rw-r--r-- 1 luigi 197121 376 giu 22 17:07 cc
+-rw-r--r-- 1 luigi 197121 403 giu 22 18:11 lista.txt
+-rw-r--r-- 1 luigi 197121   0 giu 22 18:33 listaal.txt
+-rw-r--r-- 1 luigi 197121  27 giu 22 16:59 NuovoFile.txt
